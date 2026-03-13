@@ -1,9 +1,6 @@
 # Pano_Downloader
 A lightweight Python tool to download and stitch Baidu Maps street view panoramas into high-resolution images.
 
-## 📜 说明
-想下载百度的历史全景图作为回忆保存在笔记中，直接截图体积太大且不完整，找了一圈发现没有纯免费的类似软件（*这么简单的软件还要收费TMD*），所以就用AI搞了一个用来下载百度全景图，原理是通过获取碎片图再组合的简单程序，顺便发出来节省你的一点时间。
-
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
